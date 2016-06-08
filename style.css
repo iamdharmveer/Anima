@@ -1,8 +1,8 @@
 body { 
   background: #a43a00; 
   animation: bk-chg 2s 11s ease-in-out both;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
 }
 
 @keyframes bk-chg {
@@ -16,7 +16,7 @@ body {
   left:0;
   position: absolute;
   z-index:5000;
-  background: #b01500;
+  background: #a6b6ff;
 }
 
 .dance {
