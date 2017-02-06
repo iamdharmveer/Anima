@@ -75,16 +75,6 @@ body {
     z-index: 75;
 }
 
-.ball { 
-    background: #0b0e1e;
-    border: 1px solid #91a1a1;
-    border-radius: 50%;
-    width: 115px;
-    height: 115px;
-    position: absolute;
-    z-index: 100;
-    transform: translate3d(537px,82px,0);
-}
 
 .paper {
     position: absolute;
