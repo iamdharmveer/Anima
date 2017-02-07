@@ -58,22 +58,7 @@ body {
 }
 
 
-.ender {
-    width: 500px;
-    height: 700px;
-    position: absolute;
-    left: 420px;
-    top: 100px;
-}
 
-.ender div {
-    display: inline-block;
-    width: 25px;
-    height: 700px;
-    background: #8b0b1d;
-    position: relative;
-    z-index: 75;
-}
 
 
 .paper {
