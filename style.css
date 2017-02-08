@@ -80,14 +80,6 @@ body {
     display: none;
 }
 
-.boy {
-    position: absolute;
-    z-index: 50;
-    background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/boy-sit.png") left top no-repeat;
-    width: 300px;
-    height: 271px;
-    transform: translate3d(165px,300px,0);
-}
 
 .scene {
     position: absolute;
